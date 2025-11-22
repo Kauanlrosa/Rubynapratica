@@ -1,2 +1,2 @@
 # Rubynapratica
-Aprendendo sobre os fundamentos 
+Aprendendo sobre os fundamentos do ruby
